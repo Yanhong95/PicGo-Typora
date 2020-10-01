@@ -1,2 +1,2 @@
-# PicGo-Typora-
+# PicGo-Typora
 image host for MD notes
